@@ -1,5 +1,4 @@
 # [HR-Report-Survey](https://drive.google.com/file/d/1l8xbbeUjmGQJkRML6C6pQZeY_mkHYfYk/view?usp=sharing)
-The report consists of the full analysis of the employees working in the organisation
 The Power BI report aims to provide a comprehensive analysis of 1470 professionals, out of which approx 60% are males and rest females. It consists of several interconnected visualizations, providing insights into everyone's service years, job levels, distance of workplace from their homes, the ones who are due for promotion and the ones who will be retrenched.
 
 ## Prerequisite
